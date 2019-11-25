@@ -1,0 +1,3 @@
+/data/telloproject-bsh4724/src/CMakeFiles/rebuild_cache.dir
+/data/telloproject-bsh4724/src/CMakeFiles/TelloPro.dir
+/data/telloproject-bsh4724/src/CMakeFiles/edit_cache.dir
